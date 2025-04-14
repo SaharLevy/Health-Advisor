@@ -1,10 +1,9 @@
 import "./App.css";
-import HealthForm from "./components/HealthForm";
-
+import Index from "@/pages/index.tsx";
 function App() {
   return (
     <>
-      <HealthForm></HealthForm>
+      <Index />
     </>
   );
 }

@@ -1,4 +1,4 @@
-import { HealthForm } from "@/components/HealthForm";
+import HealthForm from "@/components/HealthForm";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 
 const Index = () => {
