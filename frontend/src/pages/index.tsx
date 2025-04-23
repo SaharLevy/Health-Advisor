@@ -3,7 +3,7 @@ import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-background to-muted">
+    <div className=" min-h-screen bg-gradient-to-b from-background to-muted">
       <ThemeSwitcher />
       <div className="container px-4 py-8 mx-auto">
         <div className="text-center mb-10">
